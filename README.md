@@ -24,11 +24,11 @@ instancia de mismo, es decir habrá un pintor ’diego’ con pincel y otro pint
 
 ## 3. Diagramas de clase
 
-![Screenshot](DiagramaDelPintor.png)  
+![Screenshot](Diagrama General.png)  
 Figura 1: Diagrama de interaccion entre AlgoFix y Pintor, Pintura y Presupuesto.
-
+![Screenshot](DiagramaDelPintor.png)  
 Figura 2: Diagrama de interaccion entre el pintor y sus herramientas.
-
+![Screenshot](DiagramaDelDescuento.png)  
 Figura 3: Diagrama de interracion entre el pincel y la clase descuento.
 
 
@@ -101,7 +101,8 @@ asignado.
 
 ## 6. Diagramas de secuencia
 
+![Screenshot](Generar Materiales.png)
 Figura 4: Diagrama de secuencia del calculo del costo de los materiales.
-
+![Screenshot](Generar ManoDeObra.png)
 Figura 5: Diagrama de secuencia del calculo de la mano de obra en caso de metros cuadrados
 mayores a 40 y herramienta pincel, se aplica descuento.
