@@ -24,7 +24,7 @@ instancia de mismo, es decir habrá un pintor ’diego’ con pincel y otro pint
 
 ## 3. Diagramas de clase
 
-![Screenshot](DiagramaDelPintor.png)
+![Screenshot](DiagramaDelPintor.png)  
 Figura 1: Diagrama de interaccion entre AlgoFix y Pintor, Pintura y Presupuesto.
 
 Figura 2: Diagrama de interaccion entre el pintor y sus herramientas.
