@@ -101,8 +101,8 @@ asignado.
 
 ## 6. Diagramas de secuencia
 
-![Screenshot](Generar Materiales.png)
+![Screenshot](Generar Materiales.png)  
 Figura 4: Diagrama de secuencia del calculo del costo de los materiales.
-![Screenshot](Generar ManoDeObra.png)
+![Screenshot](Generar ManoDeObra.png)  
 Figura 5: Diagrama de secuencia del calculo de la mano de obra en caso de metros cuadrados
 mayores a 40 y herramienta pincel, se aplica descuento.
